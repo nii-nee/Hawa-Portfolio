@@ -1,0 +1,20 @@
+<section id="+233 (0)541151378">
+  <h2>Contact</h2>
+  <p>Email: <a href="hawamoru4@email.com">your@email.com</a></p>
+  <p>GitHub: <a href="https://github.com/" target="_blank">github.com/</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/na-hawa-moru-4b04a11a1" target="_blank">linkedin.com/in/na-hawa-moru-4b04a11a1</a></p>
+
+  <!-- CV Download Button -->
+  <p>
+    <a href="cv.pdf" download style="
+      display: inline-block;
+      padding: 10px 20px;
+      background: #0077cc;
+      color: #fff;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;">
+      📄 Download CV
+    </a>
+  </p>
+</section>
